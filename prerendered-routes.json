@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/home",
+    "/login",
+    "/management",
+    "/management/bill-management",
+    "/management/category-management",
+    "/management/film-management",
+    "/management/user-management"
+  ]
+}
